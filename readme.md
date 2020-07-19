@@ -30,7 +30,7 @@ After starting the server you can install and run the client from the `client` f
  
 ## Running petclinic locally
 ```
-	git clone https://github.com/spring-projects/spring-petclinic.git
+	git clone https://github.com/DimuthuKasunWP/spring-petclinic.git
 	cd spring-petclinic
 	git checkout springboot
 	./mvnw spring-boot:run
@@ -38,8 +38,7 @@ After starting the server you can install and run the client from the `client` f
 
 You can then access petclinic here: http://localhost:8080/
 
-## In case you find a bug/suggested improvement for Spring Petclinic
-Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
+
 
 
 ## Database configuration
