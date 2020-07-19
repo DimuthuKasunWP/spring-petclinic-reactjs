@@ -59,7 +59,7 @@ docker run -e MYSQL_ROOT_PASSWORD=petclinic -e MYSQL_DATABASE=petclinic -p 3306:
 
 1) In the command line
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/DimuthuKasunWP/spring-petclinic.git
 ```
 2) Inside Eclipse
 ```
